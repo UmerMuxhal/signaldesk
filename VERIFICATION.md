@@ -41,7 +41,7 @@ Sample behavior is deterministic keyword logic. OpenAI responses are mocked; no 
 
 ## Limitations and release gate
 
-No project license was selected. An explicit author decision on licensing is required before describing a future release as open source. The repository must remain private pending review; no visibility changes, deployment, package publication or public release are part of this work.
+At the initial release-candidate review, no project license had been selected. On 3 November 2026, following explicit author approval, the [MIT License](LICENSE) was added with Copyright (c) 2026 Umer Mughal. The licensing decision is complete; this does not constitute a public release. The repository must remain private pending review; no visibility changes, deployment, package publication or public release are part of this work.
 
 There is no authentication, tenant isolation or production deployment hardening. Distributed/shared-filesystem database use is unsupported. Physical mobile devices, comprehensive accessibility, live provider/model behavior and production load are outside this review. Earlier desktop/mobile browser checks are local demonstration evidence; media are intentionally excluded from the repository.
 
