@@ -112,4 +112,4 @@ This local, single-user demonstration has no authentication, tenant isolation, d
 
 [Portfolio](https://umer.fuhzion.com/) · [SignalDesk case study](https://umer.fuhzion.com/projects/signaldesk) · [LinkedIn](https://www.linkedin.com/in/umermuxhal/)
 
-The case study is portfolio material, not a hosted SignalDesk application. Repository visibility is managed separately from this demonstration. **No project license has been selected; an open-source license decision remains pending.** Source availability does not grant an open-source license. No third-party fonts, images or media are bundled; runtime dependencies keep their respective licenses.
+The case study is portfolio material, not a hosted SignalDesk application. Repository visibility is managed separately from this demonstration. Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Umer Mughal. No third-party fonts, images or media are bundled; runtime dependencies keep their respective licenses.
