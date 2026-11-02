@@ -1,0 +1,51 @@
+# Credentials: only the reviewed example is distributable.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+# Python environments, test/build artifacts
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+build/
+dist/
+*.egg-info/
+# Local records and generated artifacts
+/data/
+/exports/
+/verification-artifacts/
+/UPWORK_TARGETING.md
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.worker.lock
+*.log
+*.zip
+*.tar
+*.gz
+*.mp4
+*.mov
+*.pdf
+signaldesk-*.json
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
